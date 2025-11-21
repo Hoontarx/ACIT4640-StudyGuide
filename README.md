@@ -2935,16 +2935,3 @@ Questions are grouped by topic, with short, clear answers you can memorize.
     It uses SSH only.
 
 ---
-
-## Study Tips
-
-1. **Practice Commands:** Don't just read—actually type the commands
-2. **Understand Concepts:** Know WHY, not just WHAT
-3. **Connect the Dots:** See how tools work together (Packer → Terraform → Ansible)
-4. **Focus on Paths:** Exam loves testing file locations
-5. **Master Troubleshooting:** Know common errors and fixes
-6. **Review Questions:** Go through exam questions multiple times
-7. **Build Real Things:** Create actual infrastructure with these tools
-8. **Use Documentation:** Get comfortable reading official docs
-
-Good luck on your exam!
